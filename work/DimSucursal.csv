@@ -1,0 +1,7 @@
+ID_Sucursal,Nombre,Direccion,Departamento,TipoSucursal
+1,Farmacia Central,"San Salvador Centro, Calle Principal #123",San Salvador,Principal
+2,Sucursal Escalón,"San Salvador Centro, Calle Principal #123",San Salvador,Secundaria
+3,Sucursal Santa Ana,"Santa Ana Centro, Calle Principal #123",Santa Ana,Secundaria
+4,Sucursal San Miguel,"San Miguel Centro, Calle Principal #123",San Miguel,Secundaria
+5,Sucursal La Libertad,"La Libertad Centro, Calle Principal #123",La Libertad,Secundaria
+6,Sucursal Sonsonate,"Sonsonate Centro, Calle Principal #123",Sonsonate,Secundaria

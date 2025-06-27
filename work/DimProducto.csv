@@ -1,0 +1,151 @@
+ID_Producto,NombreProducto,Categoria,PrecioUnitario,EstadoDeRotacion
+1,Protector Solar SPF 50,Cuidado Personal,13.59,Media
+2,Mascarillas KN95,Higiene,7.49,Baja
+3,Pasta Dental Fluorada,Higiene,3.10,Baja
+4,Mascarillas KN95,Higiene,3.62,Baja
+5,Pastillas para la garganta,Medicamento,12.53,Media
+6,Omeprazol 20mg,Medicamento,10.93,Media
+7,Inhalador Salbutamol,Medicamento,12.33,Media
+8,Ibuprofeno 400mg,Medicamento,23.54,Alta
+9,Omeprazol 20mg,Medicamento,10.98,Media
+10,Vitamina C 1000mg,Suplemento,16.16,Media
+11,Crema Antifúngica,Medicamento,22.55,Alta
+12,Antigripal Forte,Medicamento,9.45,Baja
+13,Hierro Ferroso,Suplemento,20.27,Alta
+14,Protector Solar SPF 50,Cuidado Personal,11.94,Media
+15,Repelente de Insectos,Cuidado Personal,5.89,Baja
+16,Crema Antifúngica,Medicamento,11.75,Media
+17,Colirio,Medicamento,9.39,Baja
+18,Antigripal Forte,Medicamento,7.38,Baja
+19,Suero Oral,Medicamento,15.96,Media
+20,Test de Embarazo,Cuidado Personal,6.39,Baja
+21,Acetaminofén Gotas,Medicamento,19.19,Media
+22,Alcohol Etílico 70%,Higiene,6.91,Baja
+23,Enjuague Bucal,Higiene,3.86,Baja
+24,Vendas Elásticas,Higiene,2.96,Baja
+25,Repelente de Insectos,Cuidado Personal,10.67,Media
+26,Test de Embarazo,Cuidado Personal,7.72,Baja
+27,Vitamina C 1000mg,Suplemento,22.91,Alta
+28,Inhalador Salbutamol,Medicamento,21.63,Alta
+29,Guantes de Látex,Higiene,3.19,Baja
+30,Multivitamínico Infantil,Suplemento,12.80,Media
+31,Guantes de Látex,Higiene,3.42,Baja
+32,Antigripal Forte,Medicamento,18.72,Media
+33,Paracetamol 500mg,Medicamento,10.91,Media
+34,Acetaminofén Gotas,Medicamento,21.82,Alta
+35,Vitamina C 1000mg,Suplemento,16.91,Media
+36,Guantes de Látex,Higiene,3.71,Baja
+37,Algodón Hidrofílico,Higiene,6.61,Baja
+38,Omeprazol 20mg,Medicamento,16.96,Media
+39,Pastillas para la garganta,Medicamento,10.04,Media
+40,Termómetro Digital,Cuidado Personal,14.68,Media
+41,Alcohol Etílico 70%,Higiene,3.80,Baja
+42,Colirio,Medicamento,17.48,Media
+43,Hierro Ferroso,Suplemento,13.16,Media
+44,Crema Antifúngica,Medicamento,15.66,Media
+45,Mascarillas KN95,Higiene,7.22,Baja
+46,Tiras Reactivas Glucosa,Cuidado Personal,6.33,Baja
+47,Guantes de Látex,Higiene,4.17,Baja
+48,Alcohol Etílico 70%,Higiene,9.64,Baja
+49,Test de Embarazo,Cuidado Personal,3.68,Baja
+50,Gel Antibacterial,Higiene,6.11,Baja
+51,Termómetro Digital,Cuidado Personal,13.96,Media
+52,Pastillas para la garganta,Medicamento,18.85,Media
+53,Jarabe para la tos,Medicamento,12.62,Media
+54,Termómetro Digital,Cuidado Personal,5.89,Baja
+55,Antigripal Forte,Medicamento,16.15,Media
+56,Mascarillas KN95,Higiene,6.42,Baja
+57,Ibuprofeno 400mg,Medicamento,21.44,Alta
+58,Multivitamínico Infantil,Suplemento,24.31,Alta
+59,Suero Oral,Medicamento,12.43,Media
+60,Antigripal Forte,Medicamento,19.30,Media
+61,Loratadina 10mg,Medicamento,13.71,Media
+62,Enjuague Bucal,Higiene,9.69,Baja
+63,Acetaminofén Gotas,Medicamento,10.18,Media
+64,Test de Embarazo,Cuidado Personal,14.82,Media
+65,Vendas Elásticas,Higiene,3.91,Baja
+66,Tiras Reactivas Glucosa,Cuidado Personal,3.01,Baja
+67,Paracetamol 500mg,Medicamento,22.55,Alta
+68,Tiras Reactivas Glucosa,Cuidado Personal,9.08,Baja
+69,Repelente de Insectos,Cuidado Personal,14.18,Media
+70,Ácido Fólico,Suplemento,22.68,Alta
+71,Gel Antibacterial,Higiene,9.89,Baja
+72,Vendas Elásticas,Higiene,8.84,Baja
+73,Acetaminofén Gotas,Medicamento,5.23,Baja
+74,Jarabe para la tos,Medicamento,19.23,Media
+75,Hierro Ferroso,Suplemento,23.35,Alta
+76,Pasta Dental Fluorada,Higiene,5.40,Baja
+77,Colirio,Medicamento,12.19,Media
+78,Crema Antifúngica,Medicamento,14.89,Media
+79,Mascarillas KN95,Higiene,8.88,Baja
+80,Enjuague Bucal,Higiene,3.64,Baja
+81,Algodón Hidrofílico,Higiene,6.36,Baja
+82,Multivitamínico Infantil,Suplemento,15.30,Media
+83,Ácido Fólico,Suplemento,28.78,Alta
+84,Gel Antibacterial,Higiene,4.77,Baja
+85,Protector Solar SPF 50,Cuidado Personal,7.69,Baja
+86,Hierro Ferroso,Suplemento,21.90,Alta
+87,Omeprazol 20mg,Medicamento,17.93,Media
+88,Algodón Hidrofílico,Higiene,4.07,Baja
+89,Loratadina 10mg,Medicamento,10.19,Media
+90,Amoxicilina 500mg,Medicamento,14.48,Media
+91,Colirio,Medicamento,19.49,Media
+92,Ácido Fólico,Suplemento,16.77,Media
+93,Loratadina 10mg,Medicamento,13.33,Media
+94,Ibuprofeno 400mg,Medicamento,20.62,Alta
+95,Ibuprofeno 400mg,Medicamento,23.63,Alta
+96,Test de Embarazo,Cuidado Personal,6.88,Baja
+97,Inhalador Salbutamol,Medicamento,13.48,Media
+98,Hierro Ferroso,Suplemento,23.38,Alta
+99,Inhalador Salbutamol,Medicamento,13.16,Media
+100,Multivitamínico Infantil,Suplemento,21.63,Alta
+101,Jarabe para la tos,Medicamento,15.97,Media
+102,Suero Oral,Medicamento,21.28,Alta
+103,Acetaminofén Gotas,Medicamento,6.63,Baja
+104,Termómetro Digital,Cuidado Personal,8.21,Baja
+105,Crema Antifúngica,Medicamento,22.33,Alta
+106,Pasta Dental Fluorada,Higiene,3.86,Baja
+107,Amoxicilina 500mg,Medicamento,10.99,Media
+108,Gel Antibacterial,Higiene,6.81,Baja
+109,Ácido Fólico,Suplemento,23.40,Alta
+110,Tiras Reactivas Glucosa,Cuidado Personal,4.67,Baja
+111,Termómetro Digital,Cuidado Personal,6.08,Baja
+112,Omeprazol 20mg,Medicamento,14.84,Media
+113,Ácido Fólico,Suplemento,23.40,Alta
+114,Vendas Elásticas,Higiene,3.32,Baja
+115,Enjuague Bucal,Higiene,1.11,Baja
+116,Vitamina C 1000mg,Suplemento,15.13,Media
+117,Alcohol Etílico 70%,Higiene,9.27,Baja
+118,Vitamina C 1000mg,Suplemento,19.93,Media
+119,Alcohol Etílico 70%,Higiene,5.42,Baja
+120,Pastillas para la garganta,Medicamento,21.46,Alta
+121,Repelente de Insectos,Cuidado Personal,7.42,Baja
+122,Paracetamol 500mg,Medicamento,5.78,Baja
+123,Amoxicilina 500mg,Medicamento,15.30,Media
+124,Suero Oral,Medicamento,8.61,Baja
+125,Protector Solar SPF 50,Cuidado Personal,5.80,Baja
+126,Algodón Hidrofílico,Higiene,5.15,Baja
+127,Loratadina 10mg,Medicamento,11.10,Media
+128,Jarabe para la tos,Medicamento,21.61,Alta
+129,Gel Antibacterial,Higiene,9.20,Baja
+130,Enjuague Bucal,Higiene,7.13,Baja
+131,Algodón Hidrofílico,Higiene,9.13,Baja
+132,Protector Solar SPF 50,Cuidado Personal,7.56,Baja
+133,Ibuprofeno 400mg,Medicamento,16.19,Media
+134,Suero Oral,Medicamento,11.04,Media
+135,Loratadina 10mg,Medicamento,7.98,Baja
+136,Pasta Dental Fluorada,Higiene,8.02,Baja
+137,Tiras Reactivas Glucosa,Cuidado Personal,13.21,Media
+138,Vendas Elásticas,Higiene,4.18,Baja
+139,Guantes de Látex,Higiene,8.69,Baja
+140,Jarabe para la tos,Medicamento,6.46,Baja
+141,Paracetamol 500mg,Medicamento,21.50,Alta
+142,Pastillas para la garganta,Medicamento,24.92,Alta
+143,Multivitamínico Infantil,Suplemento,15.00,Media
+144,Paracetamol 500mg,Medicamento,12.77,Media
+145,Repelente de Insectos,Cuidado Personal,10.09,Media
+146,Pasta Dental Fluorada,Higiene,6.02,Baja
+147,Amoxicilina 500mg,Medicamento,5.69,Baja
+148,Colirio,Medicamento,10.05,Media
+149,Amoxicilina 500mg,Medicamento,7.56,Baja
+150,Inhalador Salbutamol,Medicamento,8.88,Baja
